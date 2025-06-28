@@ -1,0 +1,7 @@
+id = "helios-zed-theme"
+name = "Helios Zed Theme"
+description = "Helios theme for Zed"
+version = "0.0.1"
+schema_version = 2
+authors = ["<03b8@helios.graphics>"]
+repository = "https://github.com/heliosgraphics/helios-zed-theme"
