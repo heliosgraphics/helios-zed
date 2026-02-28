@@ -1,3 +1,3 @@
 # Helios Zed theme
 
-for [Zed](https://zed.dev)
+![Helios Zed Theme](assets/screenshot.png)
