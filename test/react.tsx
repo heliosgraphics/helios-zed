@@ -15,6 +15,8 @@ type Props = {
 const MAGIC_NUMBER: number = 42;
 const API_URL: string = "https://api.acme.com/users";
 
+console.log({ API_URL });
+
 export const UserList: FC<Props> = ({ users, onUserSelect }): JSX.Element => {
   const [selectedUsers, setSelectedUsers] = React.useState<Set<string>>(
     new Set(),
