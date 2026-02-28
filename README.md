@@ -1,3 +1,3 @@
 # Helios Zed theme
 
-![Helios Zed Theme](assets/screenshot.png?0.0.5)
+![Helios Zed Theme](assets/screenshot-0.0.5.png)
